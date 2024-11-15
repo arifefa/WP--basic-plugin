@@ -1,0 +1,6 @@
+basic create plugin is :
+
+folder : /helloworld
+file   : /helloworld/helloworld.php
+file   : index.php                     => this a simple protect your folder plugin 
+put helloworld folder into wp-content/plugins
